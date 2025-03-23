@@ -4,3 +4,6 @@ function addingEventListener() {
         alert('I was clicked');
     });
 }
+
+// Calling the event listener function
+addingEventListener();
